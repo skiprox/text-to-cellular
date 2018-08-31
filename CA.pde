@@ -1,3 +1,9 @@
+/*
+ * 
+ * Example from:
+ * https://processing.org/examples/wolfram.html
+ * 
+ */
 class CA {
 
 	int[] cells;     // An array of 0s and 1s 
